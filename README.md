@@ -1,5 +1,9 @@
-## Hi there 👋, I am Tzu-Han
+## 👋 Hi there! I'm Tzu-Han
+I'm a Full Stack Engineer with a passion for building robust and scalable systems, focusing primarily on backend development.
 
-![](https://skillicons.dev/icons?i=aws,bash,docker,fastapi,git,github,githubactions,go,jenkins,latex,linux,matlab,md,mysql,py,pytorch,redis,vscode&perline=10&theme=light)
+💻 What I'm Up To
+Building Stuff: My favorite hobby right now is diving into the fast-paced, creative environment of hackathons.
 
-## [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhtzuhh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Projects: I love turning ideas into functional applications. Feel free to look through my repositories to see what I've been working on!
+
+
