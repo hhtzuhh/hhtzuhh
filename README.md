@@ -7,6 +7,6 @@ Building Stuff: My favorite hobby right now is diving into the fast-paced, creat
 ☺️Projects: I love turning ideas into functional applications. Feel free to look through my repositories to see what I've been working on!
 
 * **Portfolio:** [Check out my porfolio](https://hhtzuhh.github.io/)
-* **LinkedIn:** [My LinkedIn Profile](linkedin.com/in/tzuhanlin)
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/tzuhanlin/)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java,dotnet,swift,docker,gcp,elasticsearch,aws)](https://skillicons.dev)
